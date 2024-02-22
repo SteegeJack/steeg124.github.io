@@ -1,6 +1,6 @@
 
 ## Work Experience
-### Software Engineering Intern - KFI Engineers
+### Student IT Specialist - University of Minnesota
 
 ---
 
@@ -8,15 +8,11 @@
 
 ---
 
-### Teaching Assistant - University of Minnesota
-
-
----
 
 ## Projects
 
 ### Project 1: Drone Delivery System Simulation
-- Designed a Drone Simulation utilizing the Singleton and Factory design pattern for seamless data collection analysis, developing a battery charging system to dynamically create and manage charging stations for drones.
+- Designed a Drone Simulation utilizing the Observer and Factory design pattern for seamless data collection analysis, developing a stop sign mediator system to dynamically create and enable notifications for drones.
 <br/>
 - Implemented aspects of software development activities, including design, coding, code review, testing, bug fixing, and code/API documentation utilizing Google documentation conventions.
 <!-- <img src="images/omnistudy.png" height="300" width="500"/><br/> -->
@@ -24,8 +20,8 @@
 
 ---
 
-### Project 2: Revenue Recovery System
-Deployed Python and ReactJS enhancing financial security and streamlined revenue operations, leading to a 25% reduction in fraud instances and a 20% increase in revenue efficiency anticipated.
+### Project 2: Video Game Development
+Programmed and designed a video game based in C#, using Unity Game Engine. From developing unique mechanics to technical physics simulation, developing this game has gave me many skills.
 <!-- <img src="images/greenChoice.png" height="300" width="500"/><br/> -->
 [GitHub Repository](https://github.umn.edu/GDSC/greenchoice)
 
@@ -59,8 +55,8 @@ Implemented the OpenVINO™ Toolkit, showcasing the ability to elucidate the too
     <div style="display: flex; flex-direction: column">
         <p style="font-weight: bold; font-size: 22px; margin: 0;">University of Minnesota</p>
         <p style="color: #ababab; margin: 0;">Bachelors of Science (B.S.) - Computer Science</p>
-        <p style="color: #ababab; margin: 0;">GPA: 3.96</p>
-        <p style="color: #ababab; margin: 0;">2021-2024</p>
+        <p style="color: #ababab; margin: 0;">GPA: 3.67</p>
+        <p style="color: #ababab; margin: 0;">2021-2025</p>
     </div>
 </div>
 
